@@ -34,3 +34,4 @@ urlpatterns = [
     path('', include('onlineshop.urls')),   
     path('swagger/schema/', schema_view.with_ui('swagger', cache_timeout=0), name='swagger-schema'),
 ]
+# Just wanted to Check it was updatedmcsjavhjgbrwhgnrkjgnvvbhsvbnkwgrmrkjvbsdvn fkjvrnr
